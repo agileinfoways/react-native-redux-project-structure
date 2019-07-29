@@ -1,0 +1,8 @@
+//Internet check
+export const INTERNET_STATE_CHANGED = "INTERNET_STATE_CHANGED";
+export const SET_ACCESS_TOKEN = "SET_ACCESS_TOKEN";
+
+//login
+export const LOGIN_REQUEST = "LOGIN_REQUEST";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAILURE = "LOGIN_FAILURE";

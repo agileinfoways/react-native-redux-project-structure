@@ -1,0 +1,12 @@
+{
+    "name": "react-native-redux-project-structure",
+    "version": "1.0.0",
+    "description": "React-native project structure with redux and navigation",
+    "main": "index.js",
+    "author": "xyz prr <abc@gmail.com>",
+    "license": "MIT",
+    "peerDependencies": {
+        "react": ">= 15.x",
+        "react-native": ">= 0.47.x"
+    }
+}
