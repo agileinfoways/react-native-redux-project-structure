@@ -2,7 +2,7 @@
 
 ### How to use it?
 
-#### Step:1: First create new react-native project using below commands
+#### Step:1: First create new react-native project using below command
 
 react-native init yourProjectName
 
